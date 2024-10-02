@@ -19,7 +19,7 @@ contains the fields. What is the percentage increase from the
 slowest mark to the fastest?
 """
 
-file_path = os.path.join("..", "images", "marathon_times.png")
+file_path = os.path.join("..", "..", "images", "marathon_times.png")
 
 message = client.messages.create(
   max_tokens = 8192,
