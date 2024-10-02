@@ -40,5 +40,3 @@ npm install @anthropic-ai/vertex-sdk
 ```
 python -m pip install -U 'anthropic[vertex]'
 ```
-
-python -m pip install -U 'anthropic[vertex]'
