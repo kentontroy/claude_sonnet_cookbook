@@ -1,0 +1,43 @@
+```json
+[
+  {
+    "Rank": 1,
+    "Mark": "2:00:35",
+    "WIND": "",
+    "Competitor": "Kelvin KIPTUM",
+    "DOB": "02 DEC 1999",
+    "Nat": "KEN",
+    "Pos": 1,
+    "Venue": "Chicago, IL (USA)"
+  },
+  {
+    "Rank": 2,
+    "Mark": "2:01:09",
+    "WIND": "",
+    "Competitor": "Eliud KIPCHOGE",
+    "DOB": "05 NOV 1984",
+    "Nat": "KEN",
+    "Pos": 1,
+    "Venue": "Berlin (GER)"
+  },
+  ...
+  {
+    "Rank": 10,
+    "Mark": "2:03:00",
+    "WIND": "",
+    "Competitor": "Evans CHEBET",
+    "DOB": "10 NOV 1988",
+    "Nat": "KEN",
+    "Pos": 1,
+    "Venue": "Valencia (ESP)"
+  }
+]
+```
+Now, to calculate the percentage increase:
+1. Fastest mark: 2:00:35 (7235 seconds)
+2. Slowest mark: 2:03:00 (7380 seconds)
+Percentage increase = (Slowest - Fastest) / Fastest * 100
+= (7380 - 7235) / 7235 * 100
+= 145 / 7235 * 100
+≈ 2.00%
+The percentage increase from the fastest mark to the slowest mark is approximately 2.00%.
